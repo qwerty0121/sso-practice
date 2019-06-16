@@ -1,7 +1,7 @@
 {
   "realm": "demo-api",
   "resource": "sso-test-api",
-  "auth-server-url": "http://hostname:18080/auth",
+  "auth-server-url": "http://localhost:18080/auth",
   "credentials": {
     "secret": "7039fc2e-2858-40df-a5c8-1ef833e80aa4"
   },
